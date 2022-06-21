@@ -1,0 +1,1 @@
+{"version":3,"file":"task-transform.js","sourceRoot":"","sources":["../../src/persistance/task-transform.ts"],"names":[],"mappings":";;;AAMO,MAAM,aAAa,GAAG,CAAC,QAAsB,EAAQ,EAAE;IAC5D,OAAO;QACL,EAAE,EAAE,QAAQ,CAAC,GAAG,CAAC,QAAQ,EAAE;QAC3B,IAAI,EAAE,QAAQ,CAAC,IAAI;QACnB,SAAS,EAAE,QAAQ,CAAC,SAAS;QAC7B,SAAS,EAAE,QAAQ,CAAC,SAAS;KAC9B,CAAC;AACJ,CAAC,CAAC;AAPW,QAAA,aAAa,iBAOxB"}
