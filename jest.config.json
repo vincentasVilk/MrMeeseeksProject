@@ -1,0 +1,13 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "testRegex": ".*\\.spec\\.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "setupFiles": ["dotenv/config", "./test/setup.ts"],
+  "collectCoverageFrom": ["src/**/*.ts", "!<rootDir>/src/(config|cron|main).ts", "!src/**/*.d.ts"],
+  "testPathIgnorePatterns": ["<rootDir>/dist/", "<rootDir>/node_modules/"],
+  "coverageDirectory": "coverage",
+  "testEnvironment": "node",
+  "testTimeout": 50000
+}
