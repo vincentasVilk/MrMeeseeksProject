@@ -4,7 +4,7 @@ _**What this project is about?**_
 
  _Rick is trying to improve Mr. Meeseeks Box, but he doesn't have time to make changes as he's busy on his space adventures!_ 
 
-_Rick decided that he needs an application so he could direct his garage chores directly to the box via an API. Then the application should use the the box to spawn Mr. Meeseeks and assigns chores to them._ 
+_Rick decided that he needs an application so he could direct his garage chores directly to the box via an API. Then the application should use the box to spawn Mr. Meeseeks and assigns chores to them._ 
 
 <img width="604" alt="Screenshot 2022-06-25 at 12 48 15" src="https://user-images.githubusercontent.com/70482769/175768359-7a477cde-5e7e-4b4d-ad34-e0dd40458d25.png">
 
